@@ -9,9 +9,9 @@ before_install: |-
   mv vault ~/bin
   export PATH="~/bin:$PATH"
 
-branches:
-  only:
-    - master
+#branches:
+#  only:
+#    - master
 
 rvm:
   - 1.9.3

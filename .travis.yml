@@ -1,5 +1,6 @@
 language: ruby
 cache: bundler
+cache: bundler
 sudo: false
 
 before_install: |-
